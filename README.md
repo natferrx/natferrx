@@ -1,16 +1,30 @@
-### Hi there 👋
+# Natália Ferreira
 
-<!--
-**natferrx/natferrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello World! 😋
 
-Here are some ideas to get you started:
+Meu nome é Natália, sou apaixonada pela análise de dados e tenho desejo genuíno de me tornar especialista.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou Engenheira e pós graduanda em Business Intelligence & Analytics, com experiência em áreas como PMO, Produtos e Gestão de Projetos, e estou disposta a transformar minha trajetória profissional em busca de desafios no universo de dados.
+
+Encontrei neste universo não apenas gráficos e números, mas narrativas que impulsionam decisões inteligentes. Minha transição é uma prova de que, assim como os dados, estou pronta para transformar desafios em oportunidades. 
+
+Vamos explorar juntos o mundo dos insights? ✨
+
+## Principais Aprendizados:
+
++ Business Intelligence and Analytics
++ Power BI
++ Linguagem Dax
++ Power Query
++ Excel 
++ VBA
++ SQL
++ Sharepoint
++ Scrum
++ Python 🐍, bootcamp em andamento 
+
+## Networking
+
+Se você quiser trocar conhecimentos ou saber mais detalhes sobre mim, não hesite em entrar em contato através do LinkedIn abaixo 🧡
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anatferr/)
