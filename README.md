@@ -21,7 +21,7 @@ Vamos explorar juntos o mundo dos insights? ✨
 + SQL
 + Sharepoint
 + Scrum
-+ Python 🐍, bootcamp em andamento 
++ Python 🐍
 
 ## Networking
 
