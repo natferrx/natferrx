@@ -4,7 +4,7 @@ Hello World! 😋
 
 Meu nome é Natália, sou apaixonada pela análise de dados e tenho desejo genuíno de me tornar especialista.
 
-Sou Engenheira e pós graduanda em Business Intelligence & Analytics, com experiência em áreas como PMO, Produtos e Gestão de Projetos, e estou disposta a transformar minha trajetória profissional em busca de desafios no universo de dados.
+Sou Engenheira e pós graduada em Business Intelligence & Analytics com mais de 5 anos de experiência em áreas como PMO, Engenharia e Produtos, atualmente trabalho como Analista de Dados em uma consultoria de tecnologia, atendendo empresas globais de diversos setores.
 
 Encontrei neste universo não apenas gráficos e números, mas narrativas que impulsionam decisões inteligentes. Minha transição é uma prova de que, assim como os dados, estou pronta para transformar desafios em oportunidades. 
 
